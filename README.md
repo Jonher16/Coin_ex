@@ -1,11 +1,6 @@
-# Minigame Game Web
-A simple minigame web (WIP).
+# Coin Exchange Web Platform
 
-## Available Games
+Aim: Create a simple coin exchange web platform using Socket.io.
 
-### `Rock Paper Scissors`
-### `Tic Tac Toe`
-### `Simon`
+## WIP 
 
-## WIP Games
-### `Snake`
