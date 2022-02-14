@@ -1,13 +1,10 @@
-import './App.scss';
-
+import "./App.scss";
 
 function App() {
-
-
   return (
-    <>
-    <h1>Bienvenidos al directazooo</h1>
-    </>
+    <div className="root">
+      <h1 className="mt-3">Coinex</h1>
+    </div>
   );
 }
 
