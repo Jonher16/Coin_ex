@@ -6,6 +6,11 @@ $theme-colors: (
 
 $font-weight-normal: bold;
 
+@import "./components/Login.scss";
+@import "./components/Register.scss";
+@import "./components/Reset.scss";
+@import "./components/Dashboard.scss";
+
 .root {
     background: linear-gradient(0deg, #f7cc0c 30%, #ffec84 70%);
     color: black;
